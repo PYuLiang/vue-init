@@ -1,6 +1,6 @@
-# smart-robot
+# xiaopeng2.x
 
-> SPA project for smart robot using vue
+> webpack搭建
 
 ## Build Setup
 
